@@ -7,12 +7,7 @@
 
 import Foundation
 
-//print("Enter x:")
-//let x = readLine()
-//print("Enter y:")
-//let y = readLine()
-//
-//print("Here -> \(x!) + \(y!) = \(Int(x!)! + Int(y!)!)")
+
 
 print("Program begun...")
 
@@ -44,6 +39,8 @@ func sumCommandProcess() {
     
     print("\(firstNumber) + \(secondNumber) = \(firstNumber + secondNumber)")
 }
+
+// new word 
 
 func multCommandProces() {
     
